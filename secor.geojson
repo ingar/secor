@@ -1,0 +1,1510 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.587191834196,
+                            38.18232304007758,
+                            0
+                        ],
+                        [
+                            -119.6487345290811,
+                            38.07379543846796,
+                            0
+                        ],
+                        [
+                            -119.5990384657626,
+                            37.93367963571137,
+                            0
+                        ],
+                        [
+                            -119.5079309188138,
+                            37.8201815885069,
+                            0
+                        ],
+                        [
+                            -119.1958620959187,
+                            37.95006833199959,
+                            0
+                        ],
+                        [
+                            -119.3485700265875,
+                            38.24105826410438,
+                            0
+                        ],
+                        [
+                            -119.587191834196,
+                            38.18232304007758,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Boundary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -119.3045182751126,
+                        37.97880934938742,
+                        0
+                    ],
+                    [
+                        -119.3037295203255,
+                        37.97757648450423,
+                        0
+                    ],
+                    [
+                        -119.3029624530017,
+                        37.97658741131039,
+                        0
+                    ],
+                    [
+                        -119.3022944622149,
+                        37.9747641135489,
+                        0
+                    ],
+                    [
+                        -119.3020403795482,
+                        37.97327392951809,
+                        0
+                    ],
+                    [
+                        -119.3017122308932,
+                        37.97269769117968,
+                        0
+                    ],
+                    [
+                        -119.3006626335934,
+                        37.97242994105174,
+                        0
+                    ],
+                    [
+                        -119.2999693895209,
+                        37.97288245989659,
+                        0
+                    ],
+                    [
+                        -119.2990561664075,
+                        37.97324846892123,
+                        0
+                    ],
+                    [
+                        -119.2986733622026,
+                        37.97327050730622,
+                        0
+                    ],
+                    [
+                        -119.2986041495814,
+                        37.97198507856605,
+                        0
+                    ],
+                    [
+                        -119.2974092008892,
+                        37.96849045136243,
+                        0
+                    ],
+                    [
+                        -119.2974533892279,
+                        37.96437474315667,
+                        0
+                    ],
+                    [
+                        -119.2980533635634,
+                        37.96143060387472,
+                        0
+                    ],
+                    [
+                        -119.2967299528558,
+                        37.96123381826143,
+                        0
+                    ],
+                    [
+                        -119.2912046208575,
+                        37.96133462321401,
+                        0
+                    ],
+                    [
+                        -119.2750357716337,
+                        37.958653034565,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Conness Pass (SHR)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -119.3118225146691,
+                        37.97258892955684,
+                        0
+                    ],
+                    [
+                        -119.3151747187137,
+                        37.97067946434879,
+                        0
+                    ],
+                    [
+                        -119.3163370639849,
+                        37.97115906039986,
+                        0
+                    ],
+                    [
+                        -119.3174912907115,
+                        37.97267607548547,
+                        0
+                    ],
+                    [
+                        -119.3198536186916,
+                        37.97220436184774,
+                        0
+                    ],
+                    [
+                        -119.3213317606895,
+                        37.97111915836784,
+                        0
+                    ],
+                    [
+                        -119.3223164835833,
+                        37.9713236398754,
+                        0
+                    ],
+                    [
+                        -119.3228084197882,
+                        37.97219562461883,
+                        0
+                    ],
+                    [
+                        -119.323163491109,
+                        37.97462792165623,
+                        0
+                    ],
+                    [
+                        -119.3233927023045,
+                        37.97560672605151,
+                        0
+                    ],
+                    [
+                        -119.3263794362442,
+                        37.97521361627165,
+                        0
+                    ],
+                    [
+                        -119.328033382049,
+                        37.97409632117314,
+                        0
+                    ],
+                    [
+                        -119.3308837221497,
+                        37.97273737278147,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "North Peak Pass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -119.3206161980539,
+                        37.99112026751379,
+                        0
+                    ],
+                    [
+                        -119.3229399742302,
+                        37.98904471111514,
+                        0
+                    ],
+                    [
+                        -119.331933390712,
+                        37.97637485708231,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Don't be a Smart Pass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -119.3019058815237,
+                        37.99540655476607,
+                        0
+                    ],
+                    [
+                        -119.3075149690164,
+                        38.00025017860415,
+                        0
+                    ],
+                    [
+                        -119.3116625373792,
+                        37.99960121004049,
+                        0
+                    ],
+                    [
+                        -119.3139411664057,
+                        38.00014315368242,
+                        0
+                    ],
+                    [
+                        -119.3154303136756,
+                        37.99984307019971,
+                        0
+                    ],
+                    [
+                        -119.3194894119508,
+                        37.99700541223796,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "McCabe Pass ?"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5105657986534,
+                    37.84685643861733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Hoffman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.510735095556,
+                    37.84520901634519,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hoffman's Thumb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5147991890107,
+                    37.84881557495505,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hoffman Turret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4942798362118,
+                    37.86364957696569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Bowmaiden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4848323974247,
+                    37.87512079967427,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tuolumne Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4577583517496,
+                    37.91015566842918,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SAR Dome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.434355756987,
+                    37.90510054456983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Red Dome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4428390803321,
+                    37.92845241380279,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wildcat Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4272599380026,
+                    37.95042841254762,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cold Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4229418065963,
+                    37.91632066110724,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peak 8886ft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3532814785597,
+                    37.93299985056075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ragged Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3330704529568,
+                    37.92887891891503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peak 11255ft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2655365545638,
+                    37.91879989683029,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gaylor Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2463925464927,
+                    37.94945401348996,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tioga Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.1718922352219,
+                    37.95964863253292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mono Dome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.1987599297503,
+                    37.97247706878596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lee Vining Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2235638766592,
+                    37.98979884493846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Warren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2935482367252,
+                    37.93656787045236,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peak 12002ft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.309467089962,
+                    37.94642096989684,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "White Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3213820454592,
+                    37.96704718261489,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Conness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3153160451101,
+                    37.98228747710503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3407145062936,
+                    37.98225309494754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sheep Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3127512710691,
+                    38.0046584948329,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shepherd Crest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3053457843176,
+                    38.02418685216215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Excelsior Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3092259856512,
+                    38.03348218971657,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peak 12126ft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2784527167599,
+                    38.03858845152116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2742227618267,
+                    38.06463137230614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dunderberg Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3047088069021,
+                    38.05945964644039,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Epidote Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3081283617146,
+                    38.06817827084848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Page Peaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3125140825593,
+                    38.07388610241793,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gabbro Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3239156075974,
+                    38.05991931487817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Camiaca Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4296827708608,
+                    37.99112592939538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Pharaoh\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4701971451323,
+                    37.95387750621431,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hooper Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4980475094925,
+                    37.9801594661506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.490007471741,
+                    37.9895030821809,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Regulation Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.480455833915,
+                    37.98581234430775,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pettit Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4883031175677,
+                    38.00611008700211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Volunteer Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.547933854548,
+                    38.03346843937133,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Piute Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5308383704172,
+                    38.06435713371649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Price Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4647312736648,
+                    38.05814870153394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bath Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4303179597414,
+                    38.05240489405564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Doghead Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4193301975946,
+                    38.04506254093365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Quarry Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3483272122252,
+                    38.05206290889556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grey Butte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3629999113331,
+                    38.05758078725301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stanton Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3579574335718,
+                    38.06593613887107,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virginia Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3587485899006,
+                    38.08346455620771,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Twin Peaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3652200900759,
+                    38.09076842227231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Horse Creek Peak\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3833410330609,
+                    38.0740383196779,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Worl Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4070600401386,
+                    38.08717908344405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Finger Peaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3824263972851,
+                    38.09993614188598,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Horse Creek Tower\" ?"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3772435404514,
+                    38.09834712403616,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Petite Capucin\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3816562919281,
+                    38.09307646349961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Matterhorn Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3843614410408,
+                    38.09772525122226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Dragtooth\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3889812365442,
+                    38.09847838747366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Doodad\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3910751072022,
+                    38.10079661967855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Three Teeth\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3936018617672,
+                    38.10309697880759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Sawblade\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3895770786776,
+                    38.11151398045241,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Cleaver"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3951237735055,
+                    38.10500328063945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Cleaver Peak\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3980787715599,
+                    38.10679019632044,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Blacksmith Peak\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4141080064224,
+                    38.10802964778851,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Eocene Peak\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4151761718578,
+                    38.12175816432786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Incredible Hulk\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4099507175289,
+                    38.12206377044312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Mount Walt\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4238956117592,
+                    38.12742647821234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Outguard Spire\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4238266362727,
+                    38.12603123264047,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Turret\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4237542292229,
+                    38.12522175784357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Regge Pole\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4236412921935,
+                    38.12456630268512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Duck\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4286732809385,
+                    38.12289445016707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kettle Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4597911161693,
+                    38.08145501673516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suicide Ridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4457991679223,
+                    38.09329903986097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Slide Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4510009692904,
+                    38.09985856050012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"The Juggernaut\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4577437442422,
+                    38.1108549168252,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4589329040544,
+                    38.1316808311607,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cirque Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4088570568649,
+                    38.17966499724786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eagle Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4232027120284,
+                    38.16750255767055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4437101905151,
+                    38.15888664951269,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hunewill Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4891951522825,
+                    38.14436084798423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Center Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4893672851059,
+                    38.16217121780676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grouse Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5154275208872,
+                    38.13743116688251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehrnbeck Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5081414710162,
+                    38.1525356652216,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hawksbeak Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5288289043802,
+                    38.12245597469639,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wells Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5101608112974,
+                    38.10858371616506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Acker Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5717600120023,
+                    38.11623424837838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5596940366755,
+                    38.12898654589294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Craig Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5477441536329,
+                    38.14453739726444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tower Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5726080579967,
+                    38.14590533857237,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saurian Crest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5914761480743,
+                    38.13967854141242,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keyes Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5806840590661,
+                    38.1574957532026,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Forsyth Peak"
+            }
+        }
+    ]
+}
